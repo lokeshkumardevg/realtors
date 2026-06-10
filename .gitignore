@@ -1,0 +1,45 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# testing
+coverage/
+
+# next.js
+.next/
+out/
+build/
+
+# nestjs / backend
+dist/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env
+.env*.local
+
+# vercel
+.vercel
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# system generated
+.gemini/
+3dbharat_html.txt
+3dbharat_structure.json
+3dbharat_measurement.json
+3dbharat_measurement.txt
