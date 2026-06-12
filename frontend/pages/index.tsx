@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>PGI Relators - To Achieve Precise Work Progress Monitoring</title>
+        <title>PGI Realtors - To Achieve Precise Work Progress Monitoring</title>
       </Head>
 
       <main className="min-h-screen bg-stone-100 dark:bg-black text-gray-800 dark:text-white transition-colors duration-300">
@@ -92,7 +92,7 @@ export default function Home() {
               </div>
               <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
                 <span className="text-white">Discover </span>
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-500 via-orange-500 to-red-500">PGI Relators</span>
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-500 via-orange-500 to-red-500">PGI Realtors</span>
               </h2>
               <p className="text-lg md:text-xl text-gray-400 max-w-3xl mx-auto leading-relaxed">
                 Experience India's most advanced infrastructure monitoring platform through our official showcase video

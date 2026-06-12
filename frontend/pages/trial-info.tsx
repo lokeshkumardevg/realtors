@@ -9,7 +9,7 @@ export default function TrialInfo() {
   return (
     <>
       <Head>
-        <title>{catName} Trial - PGI Relators</title>
+        <title>{catName} Trial - PGI Realtors</title>
       </Head>
       <main className="min-h-screen bg-stone-100 dark:bg-black text-gray-800 dark:text-white transition-colors duration-300 pt-24 flex items-center">
         
@@ -27,7 +27,7 @@ export default function TrialInfo() {
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-500">{catName} Trial</span>
                 </h1>
                 <p className="text-lg text-gray-400 mb-10 leading-relaxed">
-                  Experience the full capabilities of PGI Relators for your {catName.toLowerCase()} projects with our interactive sandbox environment.
+                  Experience the full capabilities of PGI Realtors for your {catName.toLowerCase()} projects with our interactive sandbox environment.
                 </p>
                 <button className="px-8 py-4 bg-gradient-to-r from-blue-600 to-cyan-600 text-white rounded-xl font-bold hover:shadow-[0_0_30px_rgba(6,182,212,0.4)] transition-all hover:-translate-y-1">
                   Access Sandbox Now

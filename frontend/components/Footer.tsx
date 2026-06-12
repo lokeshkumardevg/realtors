@@ -26,7 +26,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="container footer-bottom">
-        <p>© 2026 PGI Relators — All Rights Reserved.</p>
+        <p>© 2026 PGI Realtors — All Rights Reserved.</p>
         <div className="footer-bottom-links">
            <a href="#">Privacy Policy</a>
            <a href="#">Terms of Service</a>

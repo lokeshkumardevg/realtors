@@ -4,7 +4,7 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>About Us - PGI Relators</title>
+        <title>About Us - PGI Realtors</title>
       </Head>
       <main className="min-h-screen bg-stone-100 dark:bg-black text-gray-800 dark:text-white transition-colors duration-300 pt-24 pb-20">
         
@@ -25,7 +25,7 @@ export default function About() {
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-orange-500 to-red-500">Infrastructure Intelligence</span>
             </h1>
             <p className="text-lg md:text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
-              At PGI Relators, we are transforming how India builds. By combining advanced LiDAR, Drone Photogrammetry, and AI-driven cloud analytics, we provide millimeter-precise visibility into mega-construction projects.
+              At PGI Realtors, we are transforming how India builds. By combining advanced LiDAR, Drone Photogrammetry, and AI-driven cloud analytics, we provide millimeter-precise visibility into mega-construction projects.
             </p>
           </div>
         </section>

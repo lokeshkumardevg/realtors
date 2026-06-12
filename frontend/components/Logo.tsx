@@ -14,7 +14,7 @@ export default function Logo({ className = '' }: { className?: string }) {
         <span className="text-xl font-bold tracking-tight leading-none text-white" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 to-orange-500">PGI</span>
         </span>
-        <span className="text-[10px] font-semibold tracking-[0.2em] text-gray-400 uppercase leading-none mt-1">Relators</span>
+        <span className="text-[10px] font-semibold tracking-[0.2em] text-gray-400 uppercase leading-none mt-1">Realtors</span>
       </div>
     </div>
   );

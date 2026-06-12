@@ -44,7 +44,7 @@ export default function Videos() {
   return (
     <>
       <Head>
-        <title>Videos - PGI Relators</title>
+        <title>Videos - PGI Realtors</title>
       </Head>
       <main className="min-h-screen bg-stone-100 dark:bg-black text-gray-800 dark:text-white transition-colors duration-300 pt-24">
         
@@ -69,7 +69,7 @@ export default function Videos() {
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500">Video Showcase</span>
             </h1>
             <p className="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto leading-relaxed mb-10">
-              Explore detailed video demonstrations of 3D analysis showcasing Design, Material, Merger Layer, and complete infrastructure workflows on PGI Relators.
+              Explore detailed video demonstrations of 3D analysis showcasing Design, Material, Merger Layer, and complete infrastructure workflows on PGI Realtors.
             </p>
           </div>
         </section>
